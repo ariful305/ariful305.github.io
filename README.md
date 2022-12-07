@@ -12,10 +12,8 @@
 
 
 ### Glad to see you here!  
-Hi, I'm a front-end developer & also work in WordPress. I have 1 year of work experience in this sector. I am already working as a Front-End Developer in i2 Technologies Limited. I have already completed over 79+ projects with this company. My core skill: HTML5, CSS3, JavaScript, Bootstrap, Php,WordPress. I have already completed over 223+ projects local market. I always like to create something on my own which is helpful for others. My design is pixel perfect. High-Quality Designs,100% Client Satisfaction.  
-  
-
-<br/>  
+Hi, I'm a front-end developer & also work in WordPress and laravel. I have 2 year of work experience in this sector. I am already working as a Front-End Developer in i2 Technologies Limited. I have already completed over 79+ projects with this company. My core skill: HTML5, CSS3, JavaScript, Bootstrap, Php,WordPress and laravel. I have already completed over 173+ projects local market. I always like to create something on my own which is helpful for others.
+ <br/>  
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-arifbd" alt="dev-arifbd" /></a> </p>
 
 
