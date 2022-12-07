@@ -66,21 +66,17 @@ Hi, I'm a front-end developer & also work in WordPress and laravel. I have 2 yea
 
 
 ## Github Stats  
-<table><tr><td width="30%">
+<table><tr><td width="50%">
 
 
-  <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-arifbd&show_icons=true&locale=en&layout=compact" alt="dev-arifbd" /></p>
+  <p><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-arifbd&show_icons=true&locale=en&layout=compact" alt="dev-arifbd" /></p>
 
 
-</td><td width="33%">
+</td><td width="50%">
  
- <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=dev-arifbd&show_icons=true&locale=en" alt="dev-arifbd" /></p>
+ <p><img align="center" width="100%"  src="https://github-readme-stats.vercel.app/api?username=dev-arifbd&show_icons=true&locale=en" alt="dev-arifbd" /></p>
 
-</td><td width="33%">
-  
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=dev-arifbd&" alt="dev-arifbd" /></p>
 
-</td>
  </tr>
 </table>  
 
