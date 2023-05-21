@@ -1,7 +1,7 @@
 ## Hey 👋, I'm Arif!  
   
 
-<a href="https://github.com/dev-arifbd" target="_blank">
+<a href="https://github.com/ariful305" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
 </a>
 <a href="https://linkedin.com/in/arisim305" target="_blank">
@@ -14,7 +14,7 @@
 ### Glad to see you here!  
 Hi, I'm a web developer. I have 2 years of work experience in this sector. I am already working as a web Developer in i2 Technologies Limited. I have already completed over 79+ projects with this company. My core skills: HTML5, CSS3, JavaScript, Bootstrap, php ,WordPress and Laravel. I have already completed over 173+ projects in the local market. I always like to create something on my own which is helpful for others.
  <br/>  
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dev-arifbd" alt="dev-arifbd" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ariful305" alt="dev-ariful305" /></a> </p>
 
 
  
@@ -69,12 +69,12 @@ Hi, I'm a web developer. I have 2 years of work experience in this sector. I am 
 <table><tr><td width="50%">
 
 
-  <p><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dev-arifbd&show_icons=true&locale=en&layout=compact" alt="dev-arifbd" /></p>
+  <p><img align="center" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=ariful305&show_icons=true&locale=en&layout=compact" alt="ariful305" /></p>
 
 
 </td><td width="50%">
  
- <p><img align="center" width="100%"  src="https://github-readme-stats.vercel.app/api?username=dev-arifbd&show_icons=true&locale=en" alt="dev-arifbd" /></p>
+ <p><img align="center" width="100%"  src="https://github-readme-stats.vercel.app/api?username=ariful305&show_icons=true&locale=en" alt="ariful305" /></p>
 
 
  </tr>
